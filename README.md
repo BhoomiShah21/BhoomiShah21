@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm `Bhoomi Shah` 👋
 
-<!--
-**BhoomiShah21/BhoomiShah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working on building awesome mobile apps with React Native.
+- 🌱 I’m constantly learning and improving my skills in web and mobile development.
+- 🤝 I’m always open to collaborating on interesting projects.
+- 📝 I occasionally write about tech on [Medium](https://medium.com/@shahbhoomi21520)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools:
+
+#### 1. Framework
+- **React Native (v0.75.2)**  
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
+
+#### 2. Languages
+- **JavaScript / TypeScript**  
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+
+#### 3. Version Control System (VCS)
+- **Git / Bitbucket**  
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" />
+
+#### 4. Backend
+- **Node.js + Express.js**  
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js" />
+  
+- **Firebase (Authentication, Realtime Database, Firestore, Cloud Messaging, Hosting)**  
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+
+
+### 📫 How to reach me:
+
+<p align="left">
+  <a href="https://medium.com/@shahbhoomi21520">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium"/>
+  </a>
+</p>
+
+Thanks for visiting my profile! 😊
